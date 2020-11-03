@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.geometry("900x600+300+100")
-root.title("CSE 213 Project by Kazi Zafar Ahmmed Sabbir")
+root.title("INT213 Project by Kazi Zafar Ahmmed Sabbir")
 
 #------Header---------
 
